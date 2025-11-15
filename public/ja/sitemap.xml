@@ -3,128 +3,78 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>//localhost:1313/ja/authors/</loc>
+    <loc>//localhost:1313/authors/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
+      href="//localhost:1313/en/authors/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
       href="//localhost:1313/authors/"
     />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="//localhost:1313/it/authors/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="//localhost:1313/zh-cn/authors/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="//localhost:1313/ja/authors/"
-    />
   </url>
   <url>
-    <loc>//localhost:1313/ja/</loc>
+    <loc>//localhost:1313/categories/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="//localhost:1313/it/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="//localhost:1313/zh-cn/"
+      href="//localhost:1313/en/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="//localhost:1313/ja/"
-    />
-  </url>
-  <url>
-    <loc>//localhost:1313/ja/categories/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
       href="//localhost:1313/categories/"
     />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="//localhost:1313/it/categories/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="//localhost:1313/zh-cn/categories/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="//localhost:1313/ja/categories/"
-    />
   </url>
   <url>
-    <loc>//localhost:1313/ja/series/</loc>
+    <loc>//localhost:1313/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
+      href="//localhost:1313/en/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="//localhost:1313/"
+    />
+  </url>
+  <url>
+    <loc>//localhost:1313/series/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/en/series/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
       href="//localhost:1313/series/"
     />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="//localhost:1313/it/series/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="//localhost:1313/zh-cn/series/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="//localhost:1313/ja/series/"
-    />
   </url>
   <url>
-    <loc>//localhost:1313/ja/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="//localhost:1313/tags/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="//localhost:1313/it/tags/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="//localhost:1313/zh-cn/tags/"
+      href="//localhost:1313/en/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="//localhost:1313/ja/tags/"
+      href="//localhost:1313/tags/"
     />
   </url>
 </urlset>

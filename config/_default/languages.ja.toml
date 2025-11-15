@@ -8,13 +8,13 @@ title = "Mysite"
   isoCode = "ja"
   rtl = false
   dateFormat = ""
-  logo = "img/blowfish_logo_transparent.png"
+  # logo = "img/moon.png" # 左上のロゴアイコンを削除
   description = ""
 
 [params.author]
   name = "Mofu"
   email = ""
-  image = "img/blowfish_logo.png"
+  image = "img/bluemoon.png" # サイト中央の画像をbluemoon.pngに設定
   headline = ""
   bio = ""
   links = [

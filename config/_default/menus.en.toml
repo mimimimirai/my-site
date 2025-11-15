@@ -11,13 +11,13 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Docs"
-  pageRef = "docs"
+  name = "Notion"
+  url = "https://www.notion.so/b8499c92a01b4cd7ad829ff66b49304be"  # Replace with your Notion public page URL
   weight = 10
 
 [[main]]
-  name = "Shortcodes"
-  pageRef = "docs/shortcodes"
+  name = "note"
+  url = "https://note.com/cool_pipit9875"
   weight = 15
 
 [[main]]
@@ -48,31 +48,20 @@
   weight = 90
 
 [[main]]
-  name = "Merch"
-  url = "https://www.teepublic.com/user/blowfish-store/t-shirts"
+  name = "Organization"
+  url = "https://www.wantedly.com/projects/2231861"
   weight = 100
 
-#[[main]]
-#  name = "Test"
-#  pageRef = "pagTest"
-#  weight = 1000
-
 [[main]]
-  identifier = "twitter"
+  identifier = "x"
   pre = "x-twitter"
-  url = "https://twitter.com/burufugu"
+  url = "https://x.com/mwa_mofu"
   weight = 200
-
-#[[main]]
-#  identifier = "mastodon"
-#  pre = "mastodon"
-#  weight = 300
-#  url = "https://masto.ai/@blowfish"
 
 [[main]]
   identifier = "github"
   pre = "github"
-  url = "https://github.com/nunocoracao/blowfish"
+  url = "https://github.com/mimimimirai"
   weight = 400
 
 

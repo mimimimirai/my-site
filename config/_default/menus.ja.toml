@@ -11,13 +11,13 @@
 # このメニューは weight が低い値から高い値に順に表示されます。
 
 [[main]]
-  name = "ドキュメント"
-  pageRef = "docs"
+  name = "Notion"
+  url = "https://www.notion.so/b8499c92a01b4cd7ad829ff66b49304b"  # Notionの公開ページURLに置き換えてください
   weight = 10
 
 [[main]]
-  name = "ショートコード"
-  pageRef = "docs/shortcodes"
+  name = "note"
+  url = "https://note.com/cool_pipit9875"
   weight = 15
 
 [[main]]
@@ -48,26 +48,16 @@
   weight = 90
 
 [[main]]
-  name = "グッズ"
-  url = "https://www.teepublic.com/user/blowfish-store/t-shirts"
+  name = "所属"
+  url = "https://www.wantedly.com/projects/2231861"
   weight = 100
 
-#[[main]]
-#  name = "テスト"
-#  pageRef = "pagTest"
-#  weight = 1000
 
 [[main]]
   identifier = "x"
   pre = "x-twitter"
   url = "https://x.com/mwa_mofu"
   weight = 200
-
-#[[main]]
-#  identifier = "mastodon"
-#  pre = "mastodon"
-#  weight = 300
-#  url = "https://masto.ai/@blowfish"
 
 [[main]]
   identifier = "github"

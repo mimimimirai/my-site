@@ -67,3 +67,11 @@ enableEmoji = true
       name = 'fragmentrefs'
       type = 'fragments'
       weight = 10
+
+[params]
+  # 左上のロゴアイコンを削除
+  # Logo = "img/moon.png"
+
+[params.Author]
+  # サイト中央の画像をbluemoon.pngに設定
+  image = "img/bluemoon.png"
