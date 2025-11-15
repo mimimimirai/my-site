@@ -58,9 +58,9 @@
 #  weight = 1000
 
 [[main]]
-  identifier = "twitter"
+  identifier = "x"
   pre = "x-twitter"
-  url = "https://twitter.com/burufugu"
+  url = "https://x.com/mwa_mofu"
   weight = 200
 
 #[[main]]
@@ -72,7 +72,7 @@
 [[main]]
   identifier = "github"
   pre = "github"
-  url = "https://github.com/nunocoracao/blowfish"
+  url = "https://github.com/mimimimirai"
   weight = 400
 
 
@@ -86,6 +86,6 @@
    weight = 10
 
  [[footer]]
-   name = "著者"
+   name = "Mofu"
    pageRef = "authors"
    weight = 20
