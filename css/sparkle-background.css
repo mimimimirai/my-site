@@ -1,0 +1,17 @@
+/* スターダストアニメーションのスタイル（ダークモード専用） */
+#sparkle-background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0; /* z-indexを0に変更（背景画像の上に表示） */
+  pointer-events: none;
+  background-color: transparent; /* 背景を透明にして、既存の背景の上に表示 */
+}
+
+/* 背景がコンテンツの下に表示されるように */
+body {
+  position: relative;
+}
+
