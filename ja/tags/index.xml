@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on Blowfish</title>
-    <link>//localhost:1313/ja/tags/</link>
-    <description>Recent content in Tags on Blowfish</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor>
-    <webMaster>nuno@n9o.xyz (Blowfish)</webMaster>
-    <copyright>© 2025 Blowfish</copyright>
-    <atom:link href="//localhost:1313/ja/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Mysite</title><link>https://mimimimirai.github.io/my-site/ja/tags/</link><description>Recent content in Tags on Mysite</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>© 2025 Mofu</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mimimimirai.github.io/my-site/ja/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>サンプル</title><link>https://mimimimirai.github.io/my-site/ja/tags/%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://mimimimirai.github.io/my-site/ja/tags/%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB/</guid><description/></item><item><title>ダウンロード</title><link>https://mimimimirai.github.io/my-site/ja/tags/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://mimimimirai.github.io/my-site/ja/tags/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89/</guid><description/></item></channel></rss>
