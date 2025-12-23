@@ -1,6 +1,6 @@
 ---
 title: "サンプル"
-description: "Blowfish で何ができるのか閲覧する。"
+description: "ダウンロード可能なファイル一覧"
 cascade:
   showEdit: false
   showSummary: false
@@ -8,25 +8,33 @@ cascade:
   invertPagination: true
 ---
 
-{{< lead >}}
-Blowfish はあなたのコンテンツに命を宿します。:heart_eyes:
-{{< /lead >}}
+## ダウンロード可能なファイル
 
-このセクションは、 Blowfish で様々な種類のコンテンツをどのように表示するのかを紹介するデモページを含みます。
-
----
-
-## ファイル一覧
-
-以下のファイルをダウンロードできます：
+以下のファイルをダウンロードできます。
 
 ### PDFファイル
 
-{{< button href="/documents/不動産・車両マッチングWEBアプリの開発.pdf" target="_blank" rel="noopener noreferrer" >}}
+{{< button href="/documents/不動産・車両マッチングWEBアプリの開発.pdf" download="不動産・車両マッチングWEBアプリの開発.pdf" >}}
 📄 不動産・車両マッチングWEBアプリの開発.pdf をダウンロード
 {{< /button >}}
 
 または直接リンク: [不動産・車両マッチングWEBアプリの開発.pdf](/documents/不動産・車両マッチングWEBアプリの開発.pdf)
 
 ---
+
+## ファイルのアップロード方法
+
+1. PDFまたはPPTXファイルを `static/documents/` ディレクトリに配置します
+2. ファイル名を適切に設定します
+3. このページのリンクからダウンロードできます
+
+**注意**: ファイルを配置した後、Hugoサイトを再ビルドしてください。
+
+---
+
+## セキュリティについて
+
+- すべてのファイルは静的ファイルとして提供されます
+- ファイルは直接ダウンロードリンクとして提供され、ブラウザで開くことができます
+- 必要に応じて、ファイル名を変更してアクセスを制限できます
 

@@ -48,6 +48,21 @@
     />
   </url>
   <url>
+    <loc>//localhost:1313/samples/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="//localhost:1313/ja/samples/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/samples/"
+    />
+  </url>
+  <url>
     <loc>//localhost:1313/series/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

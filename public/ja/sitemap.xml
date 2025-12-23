@@ -77,4 +77,19 @@
       href="//localhost:1313/ja/tags/"
     />
   </url>
+  <url>
+    <loc>//localhost:1313/ja/samples/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="//localhost:1313/samples/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="//localhost:1313/ja/samples/"
+    />
+  </url>
 </urlset>
